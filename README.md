@@ -1,6 +1,6 @@
 # LinxChecker
 
-Small script to find links on websites using the "<a>" tags of the HTML code of the target. Useful to find other attack vectors through websites or CTF's.
+Small script to find links on websites using the < a > tags of the HTML code of the target. Useful to find other attack vectors through websites or CTF's.
 
 ==========================================================
 
